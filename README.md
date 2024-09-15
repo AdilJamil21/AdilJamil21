@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdilJamil21
+- 👋 Hi, I’m @AdilJamil
 - 👀 I’m interested in Game Development, Game Design, App Development, Data Science.
 - 🌱 I’m currently learning C# and Unity while doing Bachelors in Computer Science.
 - 💞️ I’m looking for Internship and Learning Experience as a Unity Internee or Unity Game Developer.
